@@ -29,4 +29,8 @@ Clone the project on your local
     "database": "Flights_Search_DB_DEV",
     "host": "127.0.0.1",
     "dialect": "mysql"
-  }
+}
+
+```bash
+npx sequelize db:create
+```
